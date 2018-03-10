@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>XC ID-7C961A06 com yourcompany nstehran</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+	<string>XG3YPBJPMS</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2018-02-28T07:36:40Z</date>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>MIIFoDCCBIigAwIBAgIILfDLYdxTWQ0wDQYJKoZIhvcNAQELBQAwgZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTcwODMxMTk0ODE1WhcNMTgwODMxMTk0ODE1WjCBkzEaMBgGCgmSJomT8ixkAQEMClNaVTUzNTRHQVYxPTA7BgNVBAMMNGlQaG9uZSBEZXZlbG9wZXI6IGFtaXIuZmFyc2FkQGdtYWlsLmNvbSAoNTNaRjU3Mkc3QSkxEzARBgNVBAsMClhHM1lQQkpQTVMxFDASBgNVBAoMC0FtaXIgRmFyc2FkMQswCQYDVQQGEwJVUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM7qnwpBSmK/67IEY6LhGXkvVxVakivxzc2MsnAHjsMrq3iqZTRfTm6BFlBvev9VnmQcTGgN5TY+ww6mm0TH1Sr5I+fQbAYQvL1F5V2sZV6W0VwC8mYy6WDTthhYQJmMgm2CMyScIp+doq9cNnhybbMdKZpMztlmdjhc3TRQGYe/wwIgcwqiWcAQ9msIQCR/i91dpD0eAAkjAncuEbe+Vi01/kuPqsx8uMNQhDPRKMTCbBbJ1vpp6CQDa1hqHInr2bRKGPCVFUkWSSLauQAWk2XG+1dSXGrTYXV+l9JPBU+2ixACMU0aHdkOJHRSURVosFZg6QvGkT96mlrWmH6qLdMCAwEAAaOCAfEwggHtMD8GCCsGAQUFBwEBBDMwMTAvBggrBgEFBQcwAYYjaHR0cDovL29jc3AuYXBwbGUuY29tL29jc3AwMy13d2RyMDEwHQYDVR0OBBYEFGW+aaErxuUG9j48BlXmPr9iHycKMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUiCcXCam2GGCL7Ou69kdZxVJUo7cwggEdBgNVHSAEggEUMIIBEDCCAQwGCSqGSIb3Y2QFATCB/jCBwwYIKwYBBQUHAgIwgbYMgbNSZWxpYW5jZSBvbiB0aGlzIGNlcnRpZmljYXRlIGJ5IGFueSBwYXJ0eSBhc3N1bWVzIGFjY2VwdGFuY2Ugb2YgdGhlIHRoZW4gYXBwbGljYWJsZSBzdGFuZGFyZCB0ZXJtcyBhbmQgY29uZGl0aW9ucyBvZiB1c2UsIGNlcnRpZmljYXRlIHBvbGljeSBhbmQgY2VydGlmaWNhdGlvbiBwcmFjdGljZSBzdGF0ZW1lbnRzLjA2BggrBgEFBQcCARYqaHR0cDovL3d3dy5hcHBsZS5jb20vY2VydGlmaWNhdGVhdXRob3JpdHkvMA4GA1UdDwEB/wQEAwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDAzATBgoqhkiG92NkBgECAQH/BAIFADANBgkqhkiG9w0BAQsFAAOCAQEAuIKbAC3XXNEd2XH/p56dRfylBaHXuaqtBhF7iXD5LL2Ppd19aEgFspYrDPHx8mIYzm+UjrFA8puBI2emN75GXrrtop/lpXLmnqHFs7dqXjQRUTGz4eiX4gpEyPzj9BmMn7twvFsVGc3sViGC1lB76zv5Ku/AsBFPAqUR6k89jbSSIIdXTTTyFewZxHz/P3l58mazz2rcI7e7vby/jOWbJjDW7Vrxa2Jw2vmcp1sJaundhBZpKbc083eVfVQs5c0kgr0AW5nL/iDHky2DUtIkiv50jtvv0qKwtwtuAaigUi74K0p1MBIcOSn6lqpMl7FujAig8kOOIpSfwQhM2Fw5fg==</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>XG3YPBJPMS.*</string>		
+		</array>
+		<key>get-task-allow</key>
+		<true/>
+		<key>application-identifier</key>
+		<string>XG3YPBJPMS.ID-7C961A06.com.yourcompany.nstehran</string>
+		<key>com.apple.developer.team-identifier</key>
+		<string>XG3YPBJPMS</string>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2018-03-07T07:36:40Z</date>
+	<key>Name</key>
+	<string>iOS Team Provisioning Profile: ID-7C961A06.com.yourcompany.nstehran</string>
+	<key>ProvisionedDevices</key>
+	<array>
+		<string>38485124c5ea2ae01589699fd372ebada7026d3a</string>
+	</array>
+	<key>LocalProvision</key>
+	<true/>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>XG3YPBJPMS</string>
+	</array>
+	<key>TeamName</key>
+	<string>Amir Farsad</string>
+	<key>TimeToLive</key>
+	<integer>7</integer>
+	<key>UUID</key>
+	<string>3c442449-6282-4099-89af-8f7215510b61</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
